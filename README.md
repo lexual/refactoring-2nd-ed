@@ -1,17 +1,17 @@
 # refactoring-2nd-ed
 
 xyz:
-- x
-- y
+    - x
+    - y
 
 XYZ:
 
-- x
-- y
+    - x
+    - y
 
 abc:
-  - x
-  - y
+    - x
+    - y
   
 ABC:
     - x
