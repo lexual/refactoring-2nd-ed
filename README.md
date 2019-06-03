@@ -8,3 +8,7 @@ XYZ:
 
 - x
 - y
+
+abc:
+  - x
+  - y
