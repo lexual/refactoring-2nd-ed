@@ -1,7 +1,7 @@
 # refactoring-2nd-ed
 
 xyz:
-    - x
+- x
     - y
 
 XYZ:
@@ -14,7 +14,7 @@ abc:
     - y
   
 ABC:
-    - x
+- x
     - y
 
 
