@@ -26,3 +26,7 @@ ABC:
 Required Secrets:
     - a
     - b
+
+Required Secrets:
+    * a
+    * b
