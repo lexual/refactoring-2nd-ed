@@ -12,3 +12,13 @@ XYZ:
 abc:
   - x
   - y
+
+
+# test
+
+
+#### Spinnaker
+
+Required Secrets:
+    - a
+    - b
